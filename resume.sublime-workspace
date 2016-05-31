@@ -1,0 +1,1919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sty",
+				"stylesheets"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"transitio",
+				"transition-timing-function"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"users",
+				"users"
+			],
+			[
+				"cre",
+				"creds"
+			],
+			[
+				"date",
+				"dateFormated"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"meal",
+				"meal-table"
+			],
+			[
+				"user",
+				"usersId"
+			],
+			[
+				"execution",
+				"users_execution"
+			],
+			[
+				"get",
+				"getActive"
+			],
+			[
+				"taskda",
+				"tasksDate"
+			],
+			[
+				"pat",
+				"pathExpl"
+			],
+			[
+				"pare",
+				"parse_url"
+			],
+			[
+				"las",
+				"lastId"
+			],
+			[
+				"exec",
+				"execution"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"insert",
+				"insert	insert"
+			],
+			[
+				"addb",
+				"addParamBtn"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"resp",
+				"resp	ajax-response"
+			],
+			[
+				"n",
+				"initial"
+			],
+			[
+				"day",
+				"dayOfWeek"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"spli",
+				"split"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"in",
+				"insert	insert"
+			],
+			[
+				"modal",
+				"modal-body"
+			],
+			[
+				"para",
+				"param"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"traini",
+				"trainingsForm"
+			],
+			[
+				"train",
+				"trainsLeft"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"tas",
+				"taskId"
+			],
+			[
+				"edit",
+				"editTask"
+			],
+			[
+				"edi",
+				"editTask"
+			],
+			[
+				"id",
+				"taskId"
+			],
+			[
+				"icon",
+				"demo-icon"
+			],
+			[
+				"tak",
+				"taskInput"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"photo",
+				"photos"
+			],
+			[
+				"pho",
+				"photos"
+			],
+			[
+				"deleet",
+				"delete-photo"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"delete",
+				"deletePath"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"jp",
+				"jpg"
+			],
+			[
+				"JP",
+				"JPEG"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"ip",
+				"important"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"moda",
+				"modalId"
+			],
+			[
+				"borde",
+				"border	border"
+			],
+			[
+				"login",
+				"invalid_login"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ral",
+				"ralewayHeavy"
+			],
+			[
+				"raleway",
+				"ralewayBold"
+			],
+			[
+				"addGoal",
+				"addGoalBtn"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"mess",
+				"message-box"
+			],
+			[
+				"messbo",
+				"message-box"
+			],
+			[
+				"messag",
+				"message"
+			],
+			[
+				"scrol",
+				"scrollHeight"
+			],
+			[
+				"new",
+				"newMessages"
+			],
+			[
+				"ne",
+				"newMessages"
+			],
+			[
+				"nu",
+				"numMessages"
+			],
+			[
+				"messbox",
+				"messageBox"
+			],
+			[
+				"datefo",
+				"dateFormat"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"im",
+				"imageSrcOut"
+			],
+			[
+				"menu",
+				"menuImages"
+			],
+			[
+				"hover",
+				"hoverSlice"
+			],
+			[
+				"sli",
+				"sliced"
+			],
+			[
+				"scr",
+				"scrollImages"
+			],
+			[
+				"men",
+				"menuImages"
+			],
+			[
+				"scroll",
+				"scrollItems"
+			],
+			[
+				"top",
+				"topMenu"
+			],
+			[
+				"topmen",
+				"topMenuHeight"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"fontst",
+				"font-style"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"baco",
+				"background-color"
+			],
+			[
+				"rele",
+				"releway-thin"
+			],
+			[
+				"re",
+				"Raleway-Thin"
+			],
+			[
+				"aler",
+				"alert	alert"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"con",
+				"con	console_log"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"admin",
+				"AdminController"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"we",
+				"webkit-box-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ht",
+				"http-equiv	Attr"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"aj",
+				"ajax-edit"
+			],
+			[
+				"acc",
+				"accidentId"
+			],
+			[
+				"mce",
+				"mce-edit-area"
+			],
+			[
+				"sp",
+				"specifications-body"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"ere",
+				"emergency"
+			],
+			[
+				"per",
+				"performer"
+			],
+			[
+				"emer",
+				"emergencies"
+			],
+			[
+				"emr",
+				"emergencies"
+			],
+			[
+				"mat",
+				"material"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/index.jade",
+			"settings":
+			{
+				"buffer_size": 4772,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 2216,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"coffees",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"unins",
+				"Nodejs::NPM::Uninstall"
+			],
+			[
+				"coffe",
+				"Set Syntax: Coffee Haml"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"to spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"route",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"rou list",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"laravel list",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"migra",
+				"Laravel Artisan 5: Migrate:Refresh"
+			],
+			[
+				"laralve",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"laravel see",
+				"Laravel Artisan 5: DB:Seed"
+			],
+			[
+				"makecon",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"lara make ",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"lara roue",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"laravel route",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"fr",
+				"File: Rename"
+			],
+			[
+				"PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet maker",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"css",
+				"Autoprefix CSS"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"loca",
+				"Local History: Browse"
+			],
+			[
+				"package control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"php artisan make:middleware NewMiddleware",
+			"php artisan",
+			"php artisan tinker",
+			"tinker",
+			"ls -al",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/z0uR/Sites/node-portfolio",
+		"/Users/z0uR/Sites/node-portfolio/public",
+		"/Users/z0uR/Sites/node-portfolio/public/images"
+	],
+	"file_history":
+	[
+		"/Users/z0uR/Sites/node-portfolio/node_modules/bson/lib/bson/symbol.js",
+		"/Users/z0uR/Sites/node-portfolio/views/layout.jade",
+		"/Users/z0uR/Sites/node-portfolio/public/less/creative.less",
+		"/Users/z0uR/Sites/node-portfolio/public/stylesheets/creative.css",
+		"/Users/z0uR/Sites/node-portfolio/app.js",
+		"/Users/z0uR/Sites/own_blog/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php",
+		"/Users/z0uR/Sites/node-portfolio/public/stylesheets/stylus/style.styl",
+		"/Users/z0uR/Sites/node-portfolio/public/javascripts/action.js",
+		"/Users/z0uR/Sites/node-portfolio/views/layout2.jade",
+		"/Users/z0uR/Sites/node-portfolio/routes/index.js",
+		"/Users/z0uR/Sites/node-portfolio/controllers/htmlController.js",
+		"/Users/z0uR/Sites/node-portfolio/views/index.jade",
+		"/Users/z0uR/Sites/node-portfolio/public/stylesheets/style.css",
+		"/Users/z0uR/Sites/node-portfolio/public/stylesheets/stylus/style.css",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/z0uR/Sites/node-portfolio/z0uR-portfolio.sublime-project",
+		"/Users/z0uR/Sites/learn_node/app.js",
+		"/Users/z0uR/Sites/learn_node/views/layout.pug",
+		"/Users/z0uR/Sites/learn_node/learn-node.sublime-project",
+		"/Users/z0uR/Sites/learn_node/views/index.pug",
+		"/Users/z0uR/Sites/learn_node/index.htm",
+		"/Users/z0uR/Sites/style.css",
+		"/Users/z0uR/Sites/learn_node/controllers/apiController.js",
+		"/Users/z0uR/Sites/learn_node/views/person.pug",
+		"/Users/z0uR/Sites/learn_node/controllers/htmlController.js",
+		"/Users/z0uR/Sites/test-express/package.json",
+		"/Users/z0uR/Sites/learn_node/public/css/style.css",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/js/var_pug.sublime-snippet",
+		"/Users/z0uR/Sites/learn_node/package.json",
+		"/Users/z0uR/Sites/learn_node/experience.js",
+		"/Users/z0uR/Sites/learn_node/ex.html",
+		"/Users/z0uR/Sites/learn_node/stylus/style.styl",
+		"/Users/z0uR/Sites/learn_node/emitter.js",
+		"/Users/z0uR/Sites/learn_node/js-experience.js",
+		"/Users/z0uR/Sites/learn_node/symbols-denote",
+		"/Users/z0uR/Sites/learn_node/test.jpg",
+		"/Users/z0uR/Sites/learn_node/reg-exp.js",
+		"/Users/z0uR/Sites/learn_node/jsconfig.json",
+		"/Users/z0uR/Sites/learn_node/index.html",
+		"/Users/z0uR/Sites/learn_node/intro.js",
+		"/Users/z0uR/Sites/learn_node/exporter.js",
+		"/Users/z0uR/Sites/learn_node/node/index.js",
+		"/Users/z0uR/Sites/learn_node/node/data.json",
+		"/Users/z0uR/Sites/learn_node/server/index.js",
+		"/Users/z0uR/Sites/learn_node/for-index.js",
+		"/Users/z0uR/Sites/learn_node/temp.js",
+		"/Users/z0uR/Sites/learn_node/sourceFile2.txt",
+		"/private/etc/hosts",
+		"/Users/z0uR/Sites/learn_node/source-file.txt.gz",
+		"/Users/z0uR/Sites/learn_node/sourceFile.txt",
+		"/Users/z0uR/Sites/learn_node/requires/require1.js",
+		"/Users/z0uR/Sites/learn_node/requires/require2.js",
+		"/Users/z0uR/Sites/learn_node/requires/require3.js",
+		"/Users/z0uR/Sites/coffeeScript/main.coffee",
+		"/Users/z0uR/Sites/learn_node/requires/require4.js",
+		"/Users/z0uR/Sites/learn_node/node/node2.js",
+		"/Users/z0uR/Sites/learn_node/node/node1.js",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/z0uR/.bash_profile",
+		"/Users/z0uR/.ssh/id_rsa.pub",
+		"/Users/z0uR/Sites/learn_node/new.txt",
+		"/Users/z0uR/Sites/learn_node/index.js",
+		"/Users/z0uR/Sites/training_diary/resources/views/layouts/user-nav.blade.php",
+		"/Users/z0uR/Sites/training_diary/resources/views/admin/admin-listing.blade.php",
+		"/Users/z0uR/Sites/training_diary/public/js/action.js",
+		"/Users/z0uR/Sites/training_diary/app/Http/Controllers/UserController.php",
+		"/Users/z0uR/Sites/training_diary/app/Http/Controllers/AdminController.php",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/macroses/console-log.sublime-macro",
+		"/Users/z0uR/Sites/training_diary/public/css/style.css",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/EasyMotion/Default (OSX).sublime-keymap",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/EasyMotion/EasyMotion.sublime-settings",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/EasyMotion/README.md",
+		"/Users/z0uR/Sites/training_diary/public/js/scroll.js",
+		"/Users/z0uR/Sites/training_diary/resources/views/user-profile.blade.php",
+		"/Users/z0uR/Sites/training_diary/public/action.js",
+		"/Users/z0uR/Sites/training_diary/resources/views/layouts/footer.blade.php",
+		"/Users/z0uR/Sites/training_diary/app/Http/routes.php",
+		"/Users/z0uR/Sites/training_diary/resources/views/layouts/header.blade.php",
+		"/Users/z0uR/Sites/training_diary/public/js/chat.js",
+		"/Users/z0uR/Sites/training_diary/.env",
+		"/Users/z0uR/Sites/training_diary/config/cache.php",
+		"/Users/z0uR/Sites/training_diary/public/.htaccess",
+		"/Users/z0uR/.sublime/history/Users/z0uR/Sites/training_diary/app/Http/Controllers/2016-03-15_22.49.08.AdminController.php",
+		"/Users/z0uR/Sites/training_diary/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php",
+		"/Users/z0uR/Sites/training_diary/app/Http/Middleware/VerifyCsrfToken.php",
+		"/Users/z0uR/Sites/training_diary/public/css/main-slider.css",
+		"/Users/z0uR/Desktop/old/user-nav.blade_own.php",
+		"/Users/z0uR/Desktop/old/user-nav.blade_old.php",
+		"/Users/z0uR/Sites/training_diary/app/Providers/RouteServiceProvider.php",
+		"/Users/z0uR/Sites/training_diary/database/user-nav.blade.php",
+		"/Users/z0uR/Sites/training_diary/public/css/jquery-ui.css",
+		"/Users/z0uR/Sites/training_diary/public/js/calendar.js",
+		"/Users/z0uR/Sites/training_diary/public/js/admin-part.js",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/js/console_log.sublime-snippet",
+		"/Users/z0uR/Sites/training_diary/app/Http/Requests/AdminAuthRequest.php",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/php/insert.sublime-snippet",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/php/update.sublime-snippet",
+		"/Users/z0uR/Sites/training_diary/app/Http/Middleware/AdminMiddleware.php",
+		"/Users/z0uR/Sites/training_diary/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/Users/z0uR/Sites/training_diary/public/css/owl.carousel.css",
+		"/Users/z0uR/Downloads/313.rhtml",
+		"/Users/z0uR/Sites/training_diary/config/app.php",
+		"/Users/z0uR/Sites/training_diary/public/js/jquery-ui.js",
+		"/Users/z0uR/Sites/les-new/resources/views/test.blade.php",
+		"/Users/z0uR/Sites/training_diary/public/img/other/day-bg.png",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/php/i.sublime-snippet",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/php/last-insert.sublime-snippet",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/php/ajax-response.sublime-snippet",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/js/hover.sublime-snippet",
+		"/Users/z0uR/Sites/training_diary/resources/views/login.blade.php",
+		"/Users/z0uR/Sites/training_diary/app/Http/Middleware/Authenticate.php",
+		"/Users/z0uR/Sites/training_diary/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/css/style.css",
+		"/Users/z0uR/Sites/training_diary/public/js/jquery.min.js",
+		"/Users/z0uR/Library/Application Support/Sublime Text 3/Packages/User/snippets/css/border.sublime-snippet",
+		"/Users/z0uR/Sites/training_diary/app/Http/Kernel.php",
+		"/Users/z0uR/Sites/training_diary/app/Http/Middleware/Guest.php",
+		"/Users/z0uR/Sites/training_diary/app/Console/Kernel.php",
+		"/Users/z0uR/Sites/training_diary/resources/views/admin/create.blade.php",
+		"/Users/z0uR/Sites/training_diary/resources/views/user-page.blade.php",
+		"/Users/z0uR/Sites/training_diary/resources/views/welcome.blade.php",
+		"/Users/z0uR/Sites/training_diary/app/Http/Controllers/HomeController.php",
+		"/Users/z0uR/Sites/training_diary/app/Http/Middleware/UsersMiddleware.php",
+		"/Users/z0uR/Sites/training_diary/resources/views/home.blade.php",
+		"/Users/z0uR/Sites/training_diary/resources/views/auth/login.blade.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/z0uR/Sites/node-portfolio",
+			"/Users/z0uR/Sites/node-portfolio/views",
+			"/Users/z0uR/Sites/training_diary/public/js",
+			"/Users/z0uR/Sites/training_diary",
+			"/Users/z0uR/Sites/training_diary/public",
+			"/Users/z0uR/Sites/training_diary/resources",
+			"/Users/z0uR/Sites/training_diary/public/js",
+			"/Users/z0uR/Sites/training_diary/public",
+			"/Users/z0uR/Sites/training_diary/public/js",
+			"/Users/z0uR/Sites/training_diary/public",
+			"/Users/z0uR/Sites/training_diary/public/js",
+			"/Users/z0uR/Sites/training_diary/public/css",
+			"/Users/z0uR/Sites/training_diary/public/js",
+			"/Users/z0uR/Sites/training_diary/public/css",
+			"/Users/z0uR/Sites/training_diary/public/js",
+			"/Users/z0uR/Sites/les-new/resources/views",
+			"/Users/z0uR/Sites/les-new",
+			"/Users/z0uR/Sites/les-new/resources/views/layouts",
+			"/Users/z0uR/Sites/les-new/app",
+			"/Users/z0uR/Sites/les-new/resources",
+			"/Users/z0uR/Sites/les-new/resources/views",
+			"/Users/z0uR/Sites/les-new/app",
+			"/Users/z0uR/Sites/les-new/resources/views",
+			"/Users/z0uR/Sites/les-new",
+			"/Users/z0uR/workspace/les",
+			"/Users/z0uR/workspace/les/app",
+			"/Users/z0uR/workspace/les",
+			"/Users/z0uR/workspace/les/resources",
+			"/Users/z0uR/workspace/les/app",
+			"/Users/z0uR/workspace/les",
+			"/Users/z0uR/workspace/les/app/Http/Controllers",
+			"/Users/z0uR/workspace/les/resources/views",
+			"/Users/z0uR/workspace/les/resources",
+			"/Users/z0uR/workspace/les",
+			"/Users/z0uR/workspace/les/app/Http/Controllers",
+			"/Users/z0uR/workspace/les/resources",
+			"/Users/z0uR/workspace/les/app",
+			"/Users/z0uR/workspace/les",
+			"/Users/z0uR/workspace/les/resources",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view/dashboard",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view",
+			"/Users/z0uR/workspace/don/administrator/components",
+			"/Users/z0uR/workspace/don/administrator/templates",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/les",
+			"/Users/z0uR/workspace/les/resources/views",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/assets/markitup",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/administrator/help",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/view",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation",
+			"/Users/z0uR/workspace/don/administrator/components",
+			"",
+			"<current file>",
+			"/Users/z0uR/workspace/don/",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/controller",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation",
+			"/Users/z0uR/workspace/don/administrator",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation",
+			"/Users/z0uR/workspace/don/administrator/components/com_jdonation/controller",
+			"/Users/z0uR/workspace/don",
+			"/Users/z0uR/workspace/don/components/com_jdonation/model,/Users/z0uR/workspace/don/components/com_jdonation,/Users/z0uR/workspace/don/components/com_jdonation/assets,/Users/z0uR/workspace/don/components/com_jdonation/controller,/Users/z0uR/workspace/don/components/com_jdonation/helper,/Users/z0uR/workspace/don/components/com_jdonation/payments,/Users/z0uR/workspace/don/components/com_jdonation/tcpdf,/Users/z0uR/workspace/don/components/com_jdonation/view,/Users/z0uR/workspace/don/components/com_jdonation/views,/Users/z0uR/workspace/don/components/com_jdonation/views/campaigns,/Users/z0uR/workspace/don/components/com_jdonation/views/donation,/Users/z0uR/workspace/don/components/com_jdonation/views/donors,/Users/z0uR/workspace/don/components/com_jdonation/views/history"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"wow.min",
+			"/js/",
+			"header.j",
+			"header.jpg",
+			"header",
+			"img/",
+			"js/",
+			" ",
+			"  ",
+			"img",
+			"            ",
+			"              ",
+			"             ",
+			"            ",
+			"        ",
+			"       ",
+			"      ",
+			"    ",
+			"   ",
+			"  ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			" ",
+			"\n  ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			" ",
+			"header",
+			"val",
+			"after",
+			"active-link",
+			"ScrollPos",
+			"refElement",
+			">",
+			"777",
+			">",
+			"hover",
+			"bg2",
+			"bg",
+			"255",
+			"0",
+			"img",
+			"after",
+			"5",
+			".3",
+			"45deg",
+			"8",
+			"repeating",
+			"8px",
+			"100",
+			"white",
+			"header",
+			"additional-elements",
+			"bg",
+			"machinery",
+			"accident-id",
+			"accidents",
+			"})",
+			"css",
+			"first",
+			"'",
+			"{",
+			"congradulate",
+			"Hello",
+			"eventEmitter",
+			"greeting",
+			"'",
+			"EventEmitter",
+			"person",
+			"'",
+			"1",
+			"node1",
+			"x",
+			"redu",
+			"prop",
+			"model",
+			"color",
+			"concat",
+			"getRes",
+			"||",
+			"two",
+			"));",
+			".val1",
+			"contentEl",
+			"/",
+			"err",
+			"/",
+			"\\\\",
+			"\\",
+			":\\\\",
+			"\"",
+			"\\",
+			"a",
+			"target=\"_blank\"",
+			"target",
+			"_html",
+			"html",
+			"_html",
+			"firstPerson",
+			"Developer",
+			"constructor",
+			"name",
+			"console",
+			",",
+			":",
+			",",
+			":",
+			"1",
+			"val2",
+			"1",
+			"arguments",
+			"');\n",
+			"name",
+			"name ",
+			"};",
+			"type",
+			"type,",
+			"advantages",
+			"identif",
+			"'",
+			"mark"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"public_html",
+			"	'",
+			"asd",
+			"r",
+			"<?",
+			"\n<",
+			"'",
+			"`",
+			"\"",
+			" \"",
+			" ",
+			"",
+			" SELECT jos_categories.title, jos_content.title\nFROM jos_content\ndonate_jd_campaigns",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								308
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "views/layout.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1774,
+								1774
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark (SL).tmTheme",
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 383.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 242.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "resume.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sybm",
+				"node_modules/bson/lib/bson/symbol.js"
+			],
+			[
+				"layou",
+				"views/layout.jade"
+			],
+			[
+				"sty",
+				"public/stylesheets/stylus/style.styl"
+			],
+			[
+				"",
+				"views/layout.jade"
+			],
+			[
+				"stylu",
+				"public/stylesheets/stylus/style.styl"
+			],
+			[
+				"actio",
+				"public/javascripts/action.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"styl",
+				"public/stylesheets/style.css"
+			],
+			[
+				"action",
+				"public/javascripts/action.js"
+			],
+			[
+				"stysty",
+				"public/stylesheets/stylus/style.styl"
+			],
+			[
+				"inja",
+				"views/index.jade"
+			],
+			[
+				"in",
+				"routes/index.js"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"inde",
+				"index.htm"
+			],
+			[
+				"layo",
+				"views/layout.pug"
+			],
+			[
+				"index",
+				"index.htm"
+			],
+			[
+				"ind",
+				"index.htm"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"ex",
+				"experience.js"
+			],
+			[
+				"exper",
+				"experience.js"
+			],
+			[
+				"sou",
+				"sourceFile2.txt"
+			],
+			[
+				"s",
+				"sourceFile.txt"
+			],
+			[
+				"sourc",
+				"sourceFile.txt"
+			],
+			[
+				"temp",
+				"temp.js"
+			],
+			[
+				"re",
+				"reg-exp.js"
+			],
+			[
+				"node2",
+				"node/node2.js"
+			],
+			[
+				"reg",
+				"reg-exp.js"
+			],
+			[
+				"nav",
+				"resources/views/layouts/user-nav.blade.php"
+			],
+			[
+				"listin",
+				"resources/views/admin/admin-listing.blade.php"
+			],
+			[
+				"usercon",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"admin",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"scr",
+				"public/js/scroll.js"
+			],
+			[
+				"scro",
+				"public/js/scroll.js"
+			],
+			[
+				"scrol",
+				"public/js/scroll.js"
+			],
+			[
+				"userpro",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"footer",
+				"resources/views/layouts/footer.blade.php"
+			],
+			[
+				"chat",
+				"public/js/chat.js"
+			],
+			[
+				"user",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"htacce",
+				"public/.htaccess"
+			],
+			[
+				"header",
+				"resources/views/layouts/header.blade.php"
+			],
+			[
+				"admi",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"admicon",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"adminli",
+				"resources/views/admin/admin-listing.blade.php"
+			],
+			[
+				"verify",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php"
+			],
+			[
+				"rout",
+				"app/Http/routes.php"
+			],
+			[
+				"slid",
+				"public/css/main-slider.css"
+			],
+			[
+				"userv",
+				"resources/views/layouts/user-nav.blade.php"
+			],
+			[
+				"usernav",
+				"resources/views/layouts/user-nav.blade.php"
+			],
+			[
+				"admincon",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"routes",
+				"app/Providers/RouteServiceProvider.php"
+			],
+			[
+				"adminpa",
+				"public/js/admin-part.js"
+			],
+			[
+				"admipa",
+				"public/js/admin-part.js"
+			],
+			[
+				"userporfil",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"usep",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"rou",
+				"app/Http/routes.php"
+			],
+			[
+				"userprofil",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"adminco",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"userp",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"calen",
+				"public/js/calendar.js"
+			],
+			[
+				"upload",
+				"vendor/symfony/http-foundation/File/UploadedFile.php"
+			],
+			[
+				"listi",
+				"resources/views/admin/admin-listing.blade.php"
+			],
+			[
+				"listing",
+				"resources/views/admin/admin-listing.blade.php"
+			],
+			[
+				"owl",
+				"public/css/owl.carousel.css"
+			],
+			[
+				"head",
+				"resources/views/layouts/header.blade.php"
+			],
+			[
+				"ch",
+				"public/js/chat.js"
+			],
+			[
+				"he",
+				"resources/views/layouts/header.blade.php"
+			],
+			[
+				"navb",
+				"resources/views/layouts/user-nav.blade.php"
+			],
+			[
+				"act",
+				"public/js/action.js"
+			],
+			[
+				"userco",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"jqey",
+				"public/css/jquery-ui.css"
+			],
+			[
+				"jquer",
+				"public/js/jquery-ui.js"
+			],
+			[
+				"foote",
+				"resources/views/layouts/footer.blade.php"
+			],
+			[
+				"use",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"login",
+				"resources/views/login.blade.php"
+			],
+			[
+				"carou",
+				"public/css/owl.carousel.css"
+			],
+			[
+				"slide",
+				"public/css/main-slider.css"
+			],
+			[
+				"main",
+				"public/css/main-slider.css"
+			],
+			[
+				"user-prof",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"style",
+				"vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/css/style.css"
+			],
+			[
+				"authe",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"user-pro",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"authenti",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"authen",
+				"app/Http/Middleware/Authenticate.php"
+			],
+			[
+				"kern",
+				"app/Http/Kernel.php"
+			],
+			[
+				"kernel",
+				"app/Console/Kernel.php"
+			],
+			[
+				"kerne",
+				"app/Http/Kernel.php"
+			],
+			[
+				"create",
+				"resources/views/admin/create.blade.php"
+			],
+			[
+				"userli",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"homel",
+				"resources/views/home.blade.php"
+			],
+			[
+				"homecon",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"homeco",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"logi",
+				"resources/views/auth/login.blade.php"
+			],
+			[
+				"userf",
+				"resources/views/user-profile.blade.php"
+			],
+			[
+				"user-nav",
+				"resources/views/layouts/user-nav.blade.php"
+			],
+			[
+				"scroll",
+				"public/js/scroll.js"
+			],
+			[
+				"defaul",
+				"resources/views/layouts/default.blade.php"
+			],
+			[
+				"navba",
+				"resources/views/layouts/user-nav.blade.php"
+			],
+			[
+				"user-v",
+				"resources/views/layouts/user-nav.blade.php"
+			],
+			[
+				"vali",
+				"resources/lang/en/validation.php"
+			],
+			[
+				"admin-li",
+				"resources/views/admin/admin-listing.blade.php"
+			],
+			[
+				"auth",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"admin-l",
+				"resources/views/admin/admin-listing.blade.php"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"valida",
+				"resources/lang/en/validation.php"
+			],
+			[
+				"cont",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"requead",
+				"app/Http/Requests/AdminAuthReques.php"
+			],
+			[
+				"heade",
+				"resources/views/layouts/header.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"admiau",
+				"app/Http/Requests/AdminAuthReques.php"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"datab",
+				"config/database.php"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"foot",
+				"resources/views/layouts/footer.blade.php"
+			],
+			[
+				"contr",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"makecontrol",
+				"vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php"
+			],
+			[
+				"a",
+				"artisan"
+			],
+			[
+				"foo",
+				"config/footer.blade.php"
+			],
+			[
+				"rev",
+				"resources/views/review.blade.php"
+			],
+			[
+				"accide",
+				"app/Http/Controllers/AccidentController.php"
+			],
+			[
+				"check",
+				"resources/views/checklist.blade.php"
+			],
+			[
+				"settin",
+				"public/js/settings.js"
+			],
+			[
+				"emer",
+				"app/Http/Controllers/EmergenciesController.php"
+			],
+			[
+				"revi",
+				"resources/views/review.blade.php"
+			],
+			[
+				"emergen",
+				"app/Http/Controllers/EmergenciesController.php"
+			],
+			[
+				"first",
+				"resources/views/layouts/first-navbar.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/learn_node/learn-node.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 317.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

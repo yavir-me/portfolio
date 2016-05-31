@@ -1,0 +1,141 @@
+extends layout
+
+block content
+	header
+		.header-content
+			.header-content-inner
+				h1 keep going well, keep going reputation
+				hr
+				p
+					| Our team supplies great service in php/node.js web development
+				a.btn.btn-primary.btn-xl.page-scroll(href='#about') Find Out More
+	section#about.bg-primary
+		.container
+			.row
+				.col-lg-8.col-lg-offset-2.text-center
+					h2.section-heading TECH TEAM UA at your service
+					hr.light
+					p.text-faded
+						| Team of experienced web developers is seeking for reliable partnership. 
+						| We make the projects from scratch and do the finishing touching to the excisting ones.
+					a.btn.btn-default.btn-xl.page-scroll(href='#contact') Get Started!
+	section#team
+		.container
+			.row
+				.col-lg-12.text-center
+					h2.section-heading Our team
+					hr.primary
+		.container
+			.row
+				.col-lg-4.col-md-6.text-center
+					.service-box
+						img(class='img-responsive img-circle', src='/images/z0uR.jpg')
+						h3 Andrii Furman
+						p.text-muted 1,5 years working with php. Now works on node.js.
+				.col-lg-4.col-md-6.text-center
+					.service-box
+						img(class='img-responsive img-circle', src='/images/tech.jpg')
+						h3 Andrii Kadira
+						p.text-muted 
+							|More than 
+							b 12 years 
+							|working with php. Senior php developer.
+				.col-lg-4.col-md-6.text-center
+					.service-box
+						img(class='img-responsive img-circle', src='/images/natali.jpg')
+						h3 Natali Shpiklirna
+						p.text-muted Intermediate web designer, content manager.
+			.row
+				.col-lg-12.col-md-12.col-sm-12.text-center
+					.dropup.btn.btn-default
+						button#dropdownMenu2.btn.btn-default.btn-xl.cv-btn.dropdown-toggle(type='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+							| Get resume
+							span.caret
+						ul.dropdown-menu.text-center(aria-labelledby='dropdownMenu2')
+							li
+								a(href='/download/furman') Andrii Furman
+							li
+								a(href='/download/kadira') Andrii Kadira
+	section#portfolio.no-padding
+	.container-fluid
+		.row.no-gutter
+			.col-lg-4.col-sm-6
+				a.portfolio-box(href='http://artdog.ru/', target='_blank')
+					img.img-responsive(src='/images/portfolio/dogs.png', alt='')
+					.portfolio-box-caption
+						.portfolio-box-caption-content
+							.project-category.text-faded
+								| Art dogs
+							.project-name
+								| View project
+			.col-lg-4.col-sm-6
+				a.portfolio-box(href='http://www.cleanprice.ru/', target='_blank')
+					img.img-responsive(src='/images/portfolio/laundry.png', alt='')
+					.portfolio-box-caption
+						.portfolio-box-caption-content
+							.project-category.text-faded
+								| All about laundry
+							.project-name
+								| View project
+			.col-lg-4.col-sm-6
+				a.portfolio-box(href='http://knadtochey.ru/', target='_blank')
+					img.img-responsive(src='/images/portfolio/portfolio.png', alt='')
+					.portfolio-box-caption
+						.portfolio-box-caption-content
+							.project-category.text-faded
+								| Kristina Nadtochey personal site-portfolio
+							.project-name
+								| View project
+			.col-lg-4.col-sm-6
+				a.portfolio-box(href='http://worldride.ru/ru/', target='_blank')
+					img.img-responsive(src='/images/portfolio/surfing.png', alt='')
+					.portfolio-box-caption
+						.portfolio-box-caption-content
+							.project-category.text-faded
+								| School of surfing
+							.project-name
+								| View project
+			.col-lg-4.col-sm-6
+				a.portfolio-box(href='http://aluca-nw.ru/', target='_blank')
+					img.img-responsive(src='/images/portfolio/workshop.png', alt='')
+					.portfolio-box-caption
+						.portfolio-box-caption-content
+							.project-category.text-faded
+								| Projection of the mobile workshops
+							.project-name
+								| View project
+	section#contact
+		.container
+			.row
+				.col-lg-8.col-lg-offset-2.text-center
+					h2.section-heading Be in touch
+					hr.primary
+					p
+						| Ready to start your next project with us? That's great! Contact us and we will get back to you as soon as possible!
+			.row
+				.col-lg-4.text-center
+					i.fa.fa-linkedin.fa-3x.wow.bounceIn
+					p
+						a(href='https://www.linkedin.com/profile/preview?locale=ru_RU&trk=prof-0-sb-preview-primary-button', target='_blank') Social profile
+				.col-lg-4.text-center
+					i.fa.fa-skype.fa-3x.wow.bounceIn(data-wow-delay='.1s')
+					p
+						|tech.team.ua
+				.col-lg-4.text-center
+					i.fa.fa-envelope-o.fa-3x.wow.bounceIn(data-wow-delay='.1s')
+					p
+						a(href='mailto:tech.team.ua@gmail.com') Write to us
+			.row
+				.col-sm-12.text-center.footer
+					p
+					| TECH TEAM UA © 2016
+	// jQuery
+	script(src='/javascripts/jquery.js')
+	// Bootstrap Core JavaScript
+	script(src='/javascripts/bootstrap.min.js')
+	// Plugin JavaScript
+	script(src='/javascripts/jquery.easing.min.js')
+	script(src='/javascripts/jquery.fittext.js')
+	script(src='/javascripts/wow.min.js')
+	// Custom Theme JavaScript
+	script(src='/javascripts/creative.js')
